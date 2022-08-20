@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TempeMenjes12
-- 👀 I’m interested in Front-End Web Developer and Data Engineering
+- 👀 I’m a Front-End Web Developer and Data Engineer
 - 📫 How to reach me 081944468630 (Whatsapp)
 
 <!---
