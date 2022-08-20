@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TempeMenjes12
-- 👀 I’m interested in Web Programming and Database Engineering
+- 👀 I’m interested in Front-End Web Developer and Data Engineering
 - 📫 How to reach me 081944468630 (Whatsapp)
 
 <!---
