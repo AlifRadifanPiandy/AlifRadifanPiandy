@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TempeMenjes12
-- 👀 I’m a Front-End Web Developer
+- 👀 I’m a Front-End Web Developer and Mobile Developer
 - 📫 How to reach me 081944468630 (Whatsapp)
 
 <!---
