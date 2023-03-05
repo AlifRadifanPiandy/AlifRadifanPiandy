@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlifRadifanPiandy
-- 👀 I’m a Full-Stack Web Developer and Mobile Developer
+- 👀 I’m a Back-End Web Developer (Laravel and Node.js) and Flutter Mobile Developer
 - 📫 How to reach me 0895376690703 (Whatsapp)
 
 <!---
