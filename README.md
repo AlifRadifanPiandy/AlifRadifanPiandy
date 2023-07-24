@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlifRadifanPiandy
-- 👀 I’m a Back-End Web Developer (Laravel and Node.js)
+- 👀 I’m a Back-End Web Developer (Laravel)
 - 📫 How to reach me 0895376690703 (Whatsapp)
 
 <!---
