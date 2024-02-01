@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently study on UIN Maulana Malik Ibrahim Malang<br>🌱 I’m currently learning Laravel and Django<br>💬 How to reach me:<br>Email (palifradifan@gmail.com)<br>WhatsApp (+62895376690703) 
+🔭 I’m currently study on UIN Maulana Malik Ibrahim Malang<br>🌱 I’m currently learning Laravel and ExpressJS<br>💬 How to reach me:<br>Email (palifradifan@gmail.com)<br>WhatsApp (+62895376690703) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alif_radifan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alif-radifan-piandy-b16b73248) 
